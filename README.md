@@ -1,5 +1,5 @@
 # Trivia
-A trivia game made using Tkinter.
+A trivia game made using Tkinter
 
 # Questions Database
 The application fetches an API from optendb.com
