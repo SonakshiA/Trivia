@@ -2,7 +2,7 @@
 A trivia game made using Tkinter
 
 # Questions Database
-The application fetches an API from optendb.com
+The application fetches an API from optendb.com. The questions are then stored in a JSON format.
 
 # Rules
 The player is given 10 questions each having a 10 second timer.
